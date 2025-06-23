@@ -1,0 +1,12 @@
+{
+    "Fulstack Developer": ["Python", "Java", "SQL", "Cloud", "Docker", "Git", "Algorithms"],
+    "Tester": ["Testing", "Automation", "Selenium", "JIRA", "QA"],
+    "Manager": ["Leadership", "Management", "Communication", "Project"],
+    "Designer": ["UI", "UX", "Figma", "Photoshop", "Illustrator"],
+    "HR": ["Recruitment", "Interviewing", "Onboarding", "Employee Relations"],
+    "Analyst": ["Data", "Excel", "SQL", "Visualization", "Statistics"],
+    "Consultant": ["Strategy", "Business", "Process", "Client"],
+    "Engineer": ["C++", "Embedded", "Hardware", "Debugging"],
+    "Tutor": ["Teaching", "Education", "Training", "Mentoring", "Communication"],
+    "Python developer":[ "Python","Excel","Html","Word","css"]
+}
